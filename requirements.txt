@@ -1,0 +1,17 @@
+opencv-python
+numpy
+pyttsx3
+PyQt5
+cvzone
+keras
+tensorflow
+googletrans==4.0.0-rc1
+gTTS
+pygame
+pyenchant
+Pillow
+pyaudio
+sounddevice
+soundfile
+pyautogui
+pygetwindow
